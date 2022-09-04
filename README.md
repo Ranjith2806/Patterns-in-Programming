@@ -1,5 +1,5 @@
 # Patterns-in-Programming using C.
- 1). 
+ 1).  
 
     1
     1 2
