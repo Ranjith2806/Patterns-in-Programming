@@ -68,3 +68,13 @@
     5 4 3
     5 4
     5
+
+ 9). Enter No of rows to show pattern:-5
+ 
+    A
+    B B
+    C C C
+    D D D D
+    E E E E E
+    
+ 10). 
